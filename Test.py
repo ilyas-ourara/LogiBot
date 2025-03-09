@@ -7,3 +7,7 @@ class Employee:
     def display(self):
         print("Name: ", self.name, ", Salary: ", self.salary)
 
+# Create an object of the class
+emp = Employee("John", 1000)
+emp.display()
+
