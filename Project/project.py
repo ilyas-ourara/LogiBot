@@ -5,7 +5,7 @@ class Project :
         self.level=niveau
         self.model=model
 
-
+    #fonction pour la detection
     def detection(self,object) :
         if self.model.detect(object)=="obstacle" :
             return "Stop" 
