@@ -1,4 +1,4 @@
-# 🤖 Autonomous Mobile Robot - ROS2 (Jazzy)
+# 🤖 LogiBot - ROS2 (Jazzy)
 
 Ce projet met en place un **robot mobile autonome** utilisant **ROS 2 Jazzy**, avec les fonctionnalités suivantes :
 - **Cartographie en temps réel (SLAM)** avec `slam_toolbox`
