@@ -42,7 +42,7 @@ Permettre à un robot mobile de :
 
 ```bash
 # 1. Cloner le projet
-git clone https://github.com/yousefh112/autonomous_mobile_robot_ROS2_jazzy.git
+[git clone (https://github.com/ilyas-ourara/LogiBot.git)]
 
 # 2. Aller dans le dossier du package
 cd autonomous_mobile_robot_ROS2_jazzy/car_nav2
@@ -52,3 +52,49 @@ colcon build
 
 # 4. Sourcer l’environnement
 source install/setup.bash
+
+
+```
+
+
+
+
+
+
+
+
+
+▶️ Exécution du projet
+🧩 Terminal 1 — Lancement du robot dans Gazebo
+
+```bash
+# Définir le chemin des ressources Gazebo
+export GZ_SIM_RESOURCE_PATH=/home/ilyas-ourara/Downloads/gazebo_models
+
+# Aller dans le dossier
+cd ~/Desktop/ROS_PROJECT_3/autonomous_mobile_robot_ROS2_jazzy/car_nav2
+
+# Sourcer l’environnement
+source install/setup.bash
+
+# Lancer le robot
+ros2 launch car_nav2 spawn_robot.launch.py
+
+```
+🧭 Terminal 2 — Démarrer la navigation (avec SLAM)
+
+```bash
+# Définir le chemin des ressources Gazebo
+export GZ_SIM_RESOURCE_PATH=/home/ilyas-ourara/Downloads/gazebo_models
+
+# Aller dans le dossier du projet
+cd ~/Desktop/ROS_PROJECT_3/autonomous_mobile_robot_ROS2_jazzy
+
+# Sourcer l’environnement
+source install/setup.bash
+
+# Lancer la navigation avec SLAM
+ros2 launch car_nav2 navigation_with_slam.launch.py
+
+
+```
