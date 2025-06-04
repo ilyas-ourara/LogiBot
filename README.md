@@ -72,7 +72,7 @@ source install/setup.bash
 export GZ_SIM_RESOURCE_PATH=/home/ilyas-ourara/Downloads/gazebo_models
 
 # Aller dans le dossier
-cd ~/Desktop/ROS_PROJECT_3/autonomous_mobile_robot_ROS2_jazzy/car_nav2
+cd ~/Desktop/ROS_PROJECT_3/Project/car_nav2
 
 # Sourcer l’environnement
 source install/setup.bash
@@ -88,7 +88,7 @@ ros2 launch car_nav2 spawn_robot.launch.py
 export GZ_SIM_RESOURCE_PATH=/home/ilyas-ourara/Downloads/gazebo_models
 
 # Aller dans le dossier du projet
-cd ~/Desktop/ROS_PROJECT_3/autonomous_mobile_robot_ROS2_jazzy
+cd ~/Desktop/ROS_PROJECT_3/Project
 
 # Sourcer l’environnement
 source install/setup.bash
