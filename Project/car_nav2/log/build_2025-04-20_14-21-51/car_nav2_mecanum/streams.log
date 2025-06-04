@@ -1,0 +1,143 @@
+[0.019s] Invoking command in '/home/ilyas-ourara/Bureau/Master/S2/Systèmes Temps Réel et
+Autonomes/Project/car_nav2_mecanum/build/car_nav2_mecanum': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/ilyas-ourara/Bureau/Master/S2/Systèmes Temps Réel et
+Autonomes/Project/car_nav2_mecanum/src -DCMAKE_INSTALL_PREFIX=/home/ilyas-ourara/Bureau/Master/S2/Systèmes Temps Réel et
+Autonomes/Project/car_nav2_mecanum/install/car_nav2_mecanum
+[0.123s] -- The C compiler identification is GNU 13.3.0
+[0.244s] -- The CXX compiler identification is GNU 13.3.0
+[0.276s] -- Detecting C compiler ABI info
+[0.299s] [33mCMake Warning:
+[0.300s]   Value of CMAKE_FIND_PACKAGE_REDIRECTS_DIR contained a newline; truncating
+[0.300s] 
+[0.300s] [0m
+[0.300s] [33mCMake Warning:
+[0.300s]   Value of CMAKE_TRY_COMPILE_BINARY_DIR contained a newline; truncating
+[0.300s] 
+[0.300s] [0m
+[0.301s] [33mCMake Warning:
+[0.301s]   Value of CMAKE_TRY_COMPILE_SOURCE_DIR contained a newline; truncating
+[0.301s] 
+[0.301s] [0m
+[0.301s] [33mCMake Warning:
+[0.301s]   Value of CMAKE_CACHEFILE_DIR contained a newline; truncating
+[0.301s] 
+[0.302s] [0m
+[0.302s] [33mCMake Warning:
+[0.302s]   Value of CMAKE_HOME_DIRECTORY contained a newline; truncating
+[0.302s] 
+[0.303s] [0m
+[0.305s] [33mCMake Warning:
+[0.305s]   Value of CMAKE_FIND_PACKAGE_REDIRECTS_DIR contained a newline; truncating
+[0.305s] 
+[0.306s] [0m
+[0.306s] [33mCMake Warning:
+[0.306s]   Value of CMAKE_TRY_COMPILE_BINARY_DIR contained a newline; truncating
+[0.306s] 
+[0.306s] [0m
+[0.306s] [33mCMake Warning:
+[0.306s]   Value of CMAKE_TRY_COMPILE_SOURCE_DIR contained a newline; truncating
+[0.306s] 
+[0.307s] [0m
+[0.307s] [33mCMake Warning:
+[0.307s]   Value of CMAKE_CACHEFILE_DIR contained a newline; truncating
+[0.307s] 
+[0.307s] [0m
+[0.307s] [33mCMake Warning:
+[0.308s]   Value of CMAKE_HOME_DIRECTORY contained a newline; truncating
+[0.308s] 
+[0.308s] [0m
+[0.337s] -- Detecting C compiler ABI info - failed
+[0.338s] -- Check for working C compiler: /usr/bin/cc
+[0.362s] [33mCMake Warning:
+[0.363s]   Value of CMAKE_FIND_PACKAGE_REDIRECTS_DIR contained a newline; truncating
+[0.363s] 
+[0.363s] [0m
+[0.364s] [33mCMake Warning:
+[0.364s]   Value of CMAKE_TRY_COMPILE_BINARY_DIR contained a newline; truncating
+[0.364s] 
+[0.365s] [0m
+[0.365s] [33mCMake Warning:
+[0.365s]   Value of CMAKE_TRY_COMPILE_SOURCE_DIR contained a newline; truncating
+[0.365s] 
+[0.366s] [0m
+[0.366s] [33mCMake Warning:
+[0.366s]   Value of CMAKE_CACHEFILE_DIR contained a newline; truncating
+[0.366s] 
+[0.367s] [0m
+[0.367s] [33mCMake Warning:
+[0.367s]   Value of CMAKE_HOME_DIRECTORY contained a newline; truncating
+[0.368s] 
+[0.368s] [0m
+[0.369s] [33mCMake Warning:
+[0.369s]   Value of CMAKE_FIND_PACKAGE_REDIRECTS_DIR contained a newline; truncating
+[0.370s] 
+[0.370s] [0m
+[0.370s] [33mCMake Warning:
+[0.371s]   Value of CMAKE_TRY_COMPILE_BINARY_DIR contained a newline; truncating
+[0.371s] 
+[0.371s] [0m
+[0.371s] [33mCMake Warning:
+[0.371s]   Value of CMAKE_TRY_COMPILE_SOURCE_DIR contained a newline; truncating
+[0.371s] 
+[0.371s] [0m
+[0.371s] [33mCMake Warning:
+[0.372s]   Value of CMAKE_CACHEFILE_DIR contained a newline; truncating
+[0.372s] 
+[0.372s] [0m
+[0.372s] [33mCMake Warning:
+[0.372s]   Value of CMAKE_HOME_DIRECTORY contained a newline; truncating
+[0.372s] 
+[0.372s] [0m
+[0.395s] -- Check for working C compiler: /usr/bin/cc - broken
+[0.395s] [31mCMake Error at /usr/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:67 (message):
+[0.395s]   The C compiler
+[0.395s] 
+[0.395s]     "/usr/bin/cc"
+[0.396s] 
+[0.396s]   is not able to compile a simple test program.
+[0.396s] 
+[0.396s]   It fails with the following output:
+[0.396s] 
+[0.397s]     Change Dir: '/home/ilyas-ourara/Bureau/Master/S2/Systèmes Temps Réel et
+[0.397s]     Autonomes/Project/car_nav2_mecanum/build/car_nav2_mecanum/CMakeFiles/CMakeScratch/TryCompile-Ts9GDX'
+[0.397s]     
+[0.397s]     Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_eecd0/fast
+[0.398s]     Makefile:64: *** missing separator.  Stop.
+[0.399s]     
+[0.399s]     
+[0.399s] 
+[0.399s]   
+[0.400s] 
+[0.400s]   CMake will not be able to correctly generate this project.
+[0.400s] Call Stack (most recent call first):
+[0.401s]   CMakeLists.txt:2 (project)
+[0.401s] 
+[0.401s] [0m
+[0.401s] -- Configuring incomplete, errors occurred!
+[0.401s] [33mCMake Warning:
+[0.402s]   Value of CMAKE_FIND_PACKAGE_REDIRECTS_DIR contained a newline; truncating
+[0.402s] 
+[0.402s] [0m
+[0.402s] [33mCMake Warning:
+[0.403s]   Value of CMAKE_INSTALL_PREFIX contained a newline; truncating
+[0.403s] 
+[0.403s] [0m
+[0.404s] [33mCMake Warning:
+[0.404s]   Value of car_nav2_mecanum_BINARY_DIR contained a newline; truncating
+[0.404s] 
+[0.405s] [0m
+[0.405s] [33mCMake Warning:
+[0.405s]   Value of car_nav2_mecanum_SOURCE_DIR contained a newline; truncating
+[0.408s] 
+[0.408s] [0m
+[0.409s] [33mCMake Warning:
+[0.410s]   Value of CMAKE_CACHEFILE_DIR contained a newline; truncating
+[0.410s] 
+[0.410s] [0m
+[0.410s] [33mCMake Warning:
+[0.410s]   Value of CMAKE_HOME_DIRECTORY contained a newline; truncating
+[0.410s] 
+[0.410s] [0m
+[0.411s] Invoked command in '/home/ilyas-ourara/Bureau/Master/S2/Systèmes Temps Réel et
+Autonomes/Project/car_nav2_mecanum/build/car_nav2_mecanum' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/ilyas-ourara/Bureau/Master/S2/Systèmes Temps Réel et
+Autonomes/Project/car_nav2_mecanum/src -DCMAKE_INSTALL_PREFIX=/home/ilyas-ourara/Bureau/Master/S2/Systèmes Temps Réel et
+Autonomes/Project/car_nav2_mecanum/install/car_nav2_mecanum

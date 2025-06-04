@@ -1,0 +1,128 @@
+[33mCMake Warning:
+  Value of CMAKE_FIND_PACKAGE_REDIRECTS_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_TRY_COMPILE_BINARY_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_TRY_COMPILE_SOURCE_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_CACHEFILE_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_HOME_DIRECTORY contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_FIND_PACKAGE_REDIRECTS_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_TRY_COMPILE_BINARY_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_TRY_COMPILE_SOURCE_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_CACHEFILE_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_HOME_DIRECTORY contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_FIND_PACKAGE_REDIRECTS_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_TRY_COMPILE_BINARY_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_TRY_COMPILE_SOURCE_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_CACHEFILE_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_HOME_DIRECTORY contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_FIND_PACKAGE_REDIRECTS_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_TRY_COMPILE_BINARY_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_TRY_COMPILE_SOURCE_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_CACHEFILE_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_HOME_DIRECTORY contained a newline; truncating
+
+[0m
+[31mCMake Error at /usr/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:67 (message):
+  The C compiler
+
+    "/usr/bin/cc"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: '/home/ilyas-ourara/Bureau/Master/S2/Systèmes Temps Réel et
+    Autonomes/Project/car_nav2_mecanum/build/car_nav2_mecanum/CMakeFiles/CMakeScratch/TryCompile-Ts9GDX'
+    
+    Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_eecd0/fast
+    Makefile:64: *** missing separator.  Stop.
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_FIND_PACKAGE_REDIRECTS_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_INSTALL_PREFIX contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of car_nav2_mecanum_BINARY_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of car_nav2_mecanum_SOURCE_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_CACHEFILE_DIR contained a newline; truncating
+
+[0m
+[33mCMake Warning:
+  Value of CMAKE_HOME_DIRECTORY contained a newline; truncating
+
+[0m
