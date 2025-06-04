@@ -1,0 +1,1 @@
+/home/ilyas-ourara/Desktop/ROS_PROJECT_3/LogiBot/Project/build/car_nav2_mecanum/ament_cmake_environment_hooks/local_setup.sh
